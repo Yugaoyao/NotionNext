@@ -61,7 +61,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '感兴趣的事',
   HEO_SOCIAL_CARD_TITLE_2: '极致的技术',
-  HEO_SOCIAL_CARD_TITLE_3: '读博中...',
+  HEO_SOCIAL_CARD_TITLE_3: '战斗中...',
   HEO_SOCIAL_CARD_URL: 'https://github.com/yugaoyao',
 
   // 底部统计面板文案
